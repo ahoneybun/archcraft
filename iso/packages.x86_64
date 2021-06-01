@@ -117,7 +117,11 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
-zsh
+fish
+
+##-------- GNOME -----------------------------##
+gnome
+gnome-software-packagekit-plugin
 
 ##-------- Xorg Packages ---------------------##
 xorg-server
@@ -153,14 +157,6 @@ nvidia-settings
 #nvidia-dkms
 #nvidia-prime
 
-##-------- Openbox ---------------------------##
-obconf
-openbox
-
-##-------- Bspwm -----------------------------##
-bspwm
-sxhkd
-
 ##-------- Programs --------------------------##
 
 ## Networking / Internet -----
@@ -189,23 +185,12 @@ pulseaudio-alsa
 pulseaudio-equalizer-ladspa
 
 ## Files -----
-ranger
-pcmanfm
-thunar
-thunar-archive-plugin
-thunar-media-tags-plugin
-thunar-volman
 zip
 p7zip
 unzip
 unrar
 xarchiver
 xdg-user-dirs
-
-## Images -----
-feh
-imagemagick
-viewnior
 
 ## Multimedia -----
 ffmpeg
@@ -225,11 +210,7 @@ tumbler
 alacritty
 
 ## Docs / Editors -----
-atril
-geany
-geany-plugins
-leafpad
-vim
+nano
 
 ## Fonts -----
 noto-fonts
@@ -271,20 +252,7 @@ yad
 xclip
 
 ## Utilities -----
-fortune-mod
-meld
-lxappearance
-nitrogen
-plank
-rofi
-scrot
-xfce4-power-manager
-xfce4-settings
-
-## QT Style -----
-kvantum-qt5
-kvantum-theme-adapta
-qt5ct
+tilix
 
 ##-------- Calamares ----------------##
 boost
@@ -331,23 +299,4 @@ lxdm-theme-archcraft
 grub2-theme-default
 
 ##-------- AUR Packages -------------##
-betterlockscreen
-blight
-cava
-colorpicker
-compton-tryone-git
-downgrade
-i3lock-color
-ksuperkey
-networkmanager-dmenu-git
-obmenu-generator
-perl-linux-desktopfiles
-#picom-ibhagwan-git
-plymouth
-polybar
-pyroom
-timeshift
-toilet
-tty-clock
-unimatrix-git
 yay
