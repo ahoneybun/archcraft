@@ -200,11 +200,6 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
-mpc
-mpd
-mplayer
-ncmpcpp
-tumbler
 
 ## Terminals -----
 alacritty
@@ -219,7 +214,6 @@ ttf-dejavu
 
 ## System -----
 dunst
-lxdm-gtk3
 polkit
 powertop
 htop
